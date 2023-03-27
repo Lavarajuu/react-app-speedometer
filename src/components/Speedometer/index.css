@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.heading {
+  color: #ffffff;
+  font-size: 60px;
+}
+.image {
+  height: 400px;
+  width: 100%;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #07080c;
+  padding: 100px;
+}
+.speed-text {
+  color: #ffffff;
+  font-size: 50px;
+}
+.description {
+  color: #cbd5e1;
+  font-size: 30px;
+}
+.button1 {
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-color: #cbd5e1;
+  border-style: solid;
+}
+.button2 {
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #cbd5e1;
+  border-color: #cbd5e1;
+  border-style: solid;
+}
